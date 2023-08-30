@@ -1,6 +1,6 @@
 # tv75 (for Tizan based samsung TV)
 A tiny tizen app (for Samsung TV) to watch Bangladeshi Cricket matches. 
-ATM there are few channels available to circulate. You can use stadard Samsung TV's standard remote arrow up key to change channel.
+ATM there are few channels available to circulate. You can use Samsung TV's standard remote arrow up key to change channel.
 
 ## Install
 

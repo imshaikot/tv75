@@ -1,7 +1,7 @@
 const hlsLinks = [
-  "https://103.factore.cyou:8088/stream/lizata1/playlist.m3u8?id=43662&pk=750eac8c07cc3973332d9218e7c54e0b24597149049c692685daa23ae45343bb",
   "https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8", // gazi tv
   "https://live.tsports.com/live/tsports_live_720/index.m3u8", // t-sports
+  "https://103.factore.cyou:8088/stream/lizata1/playlist.m3u8?id=43662&pk=750eac8c07cc3973332d9218e7c54e0b24597149049c692685daa23ae45343bb",
   // "http://103.81.104.118/hls/stream10.m3u8", // Sony six
 ];
 
